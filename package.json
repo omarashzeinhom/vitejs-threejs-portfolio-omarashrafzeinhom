@@ -14,7 +14,7 @@
     "@react-three/fiber": "8.13.3",
     "@sanity/client": "^6.2.0",
     "@sanity/image-url": "^1.0.2",
-    "@types/three": "0.152.1",
+    "@types/three": "0.177.0",
     "framer-motion": "^10.13.1",
     "framer-motion-3d": "^10.13.1",
     "gsap": "^3.12.2",
